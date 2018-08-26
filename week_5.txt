@@ -1,0 +1,2 @@
+We discovered why the SCIP file was not being made properly, and we successfully installed SCIP. We have begun searching through the SCIP code basic to determine where the pseudo-cost calculations are taking place, and how they are stored in memory. We also received some feedback for the project specification.
+I also clarified most of the elements of the problem we are trying to solve, thanks to Jackson and Pierre.
